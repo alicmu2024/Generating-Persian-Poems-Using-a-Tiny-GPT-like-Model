@@ -22,8 +22,7 @@ The project is designed to be user-friendly, enabling users to easily generate p
 To set up the Persian Poem Generator, follow these steps:
 Clone the Repository:
 bash
-git clone https://github.com/your_username/persian-poem-generator.git
-cd persian-poem-generator
+git clone git@github.com:alicmu2024/Generating-Persian-Poems-Using-a-Tiny-GPT-like-Model.git
 
 ### Install Required Libraries:
 
